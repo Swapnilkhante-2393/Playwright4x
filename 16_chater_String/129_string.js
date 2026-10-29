@@ -10,7 +10,7 @@ let a = 'hello';
 // Double quotes
 let b = "world";
 
-// Template literals (backticks) — allows expressions & multiline
+// Template literals 
 let name1 = "Alice";
 let msg = `Hello, ${name1}! 2 + 2 = ${2 + 2}`;
 console.log(msg);
